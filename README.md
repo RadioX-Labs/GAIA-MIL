@@ -1,4 +1,8 @@
 # GAIA-MIL
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![Status](https://img.shields.io/badge/Paper%20Status-Under%20Review-purple)
+
+
 This repository is an official implementation of using Gated Attention Instance Agregation in Multiple Instance Learning Model to detect Gallbladder Cancer (GBC) from Ultrasound Imaging.
 
 Rationale beind levraging MIL paradigm is to mimmic the clical workflow of processing a "bag" of ultrasound images from single patient to produce a diagnosis.
