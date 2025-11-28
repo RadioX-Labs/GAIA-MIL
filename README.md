@@ -22,4 +22,4 @@ Rationale beind levraging MIL paradigm is to mimmic the clical workflow of proce
 
 
 ## Dataset
-This framework was developed using the AURORA-GB (Advanced Ultrasound Repository for Oncological Research and Analysis - Gall Baldder)dataset, the largest multi-center public repository for gallbladder ultrasound, comprising 11,012 images from 1,151 patients.
+This framework was developed using the **AURORA-GB** (*Advanced Ultrasound Repository for Oncological Research and Analysis*)dataset, the largest multi-center public repository for gallbladder ultrasound, comprising 11,012 images from 1,151 patients.
