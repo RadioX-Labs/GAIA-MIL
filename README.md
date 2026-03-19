@@ -7,6 +7,8 @@ This repository is an official implementation of using Gated Attention Instance 
 
 Rationale beind levraging MIL paradigm is to mimmic the clical workflow of processing a "bag" of ultrasound images from single patient to produce a diagnosis.
 
+## You can try out research preview of the implementation at https://gbmc.radioxlabs.org/
+
 ## Pipeline
 1. **Quality Control**: `quality.py` filters out non-diagnostic images based on channel variance and pixel intensity standard deviation.
 2. **ROI Extraction**: `crop.py` identifies and crops the ultrasound cone using largest contour detection, removing UI elements and text.
